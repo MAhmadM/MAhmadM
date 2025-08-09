@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Muhammad Ahmad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Founding+Partner+of+Ethivio+%F0%9F%94%A5;Full-stack+Engineer;VS+Code+Extension+Developer;Always+curious+Always+building;ENTP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Engineer;VS+Code+Extension+Developer;Always+curious+Always+building;ENTP" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,6 @@
 ### 🚀 About Me
 
 - 🎓 **Software Engineer** — National University of Computer and Emerging Scien (FAST), 2025  
-- 🏢 **Founder** @ [Ethivio Technologies](https://www.ethivio.com) — Scaling dev teams through Staff Augmentation
 - 👨‍💻Final Year Project: **CodeSync** — An AI-powered VS Code Extension using Mistral Codestral model
 - 🧠 **Passionate about:** AI, ML, SE & Startup Ecosystems
 - ✍️ I write clean code, craft intuitive tools, and automating workflows.
